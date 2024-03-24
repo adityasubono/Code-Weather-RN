@@ -1,7 +1,7 @@
 import React from "react";
 import { View } from "react-native";
 
-function Searching(props) {
+function Units(props) {
   return (
     <View>
 
@@ -9,4 +9,4 @@ function Searching(props) {
   );
 }
 
-export default Searching;
+export default Units;
