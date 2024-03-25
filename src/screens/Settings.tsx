@@ -26,7 +26,7 @@ function Settings({navigation}) {
           style={{
             justifyContent: 'center',
           }}>
-          <Icon size={20} source="arrow-right" />
+          <Icon size={20} source="chevron-right" />
         </View>
       </TouchableOpacity>
       <Divider />
@@ -45,7 +45,7 @@ function Settings({navigation}) {
           style={{
             justifyContent: 'center',
           }}>
-          <Icon size={20} source="arrow-right" />
+          <Icon size={20} source="chevron-right" />
         </View>
       </TouchableOpacity>
       <Divider />

@@ -9,8 +9,8 @@ function CardPredictionComponent() {
         flexDirection: 'column',
       }}>
       <Text>20:00</Text>
-      <Text>Image</Text>
-      <Text>26 C</Text>
+      <Text variant="labelSmall">Image</Text>
+      <Text>26˚C</Text>
     </View>
   );
 }
